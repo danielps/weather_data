@@ -7,11 +7,11 @@ A config.cfg file place in the same working directory is also needed. In this fi
 ```sh
 {
   "aemet": {
-    "path_res": "/home/user_name/.../AEMET/Results/",       # Where the final results will be saved
-    "path_dat": "/home/user_name.../AEMET/",		    # Where the file that contains the weather stations to download is located
-    "path_data": "/home/user_name/.../AEMET/Data/",         # Where the downloaded info will be placed
-    "path_info": "/home/user_name/.../AEMET/Info/",         # Where the log file will placed
-    "file_stations": "Estacions.dat"                        # The name of the file with the weather stations info (station_name,station_id)
+    "path_res": "/home/user_name/.../AEMET/Results/",   # Where the final results will be saved
+    "path_dat": "/home/user_name.../AEMET/",		        # Where the file that contains the weather stations to download is located
+    "path_data": "/home/user_name/.../AEMET/Data/",     # Where the downloaded info will be placed
+    "path_info": "/home/user_name/.../AEMET/Info/",     # Where the log file will placed
+    "file_stations": "Estacions.dat"                    # The name of the file with the weather stations info (station_name,station_id)
   },
   "meteocat": {
     "path_res": "/home/user_name/.../Meteocat/Results/",
@@ -23,7 +23,7 @@ A config.cfg file place in the same working directory is also needed. In this fi
 
 The file with the list of weather stations available from each site should include the next information:
 
-station_name,station_id
+- station_name,station_id
 
 
 
