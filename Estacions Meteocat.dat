@@ -1,0 +1,264 @@
+######################################################################
+#########################     METEOCAT    ############################
+######################################################################
+
+### Alt Camp (2) ###
+Nulles,VY
+Vila-Rodona,DQ 
+
+### Alt Emporda (9) ###
+Cabanes,U1
+CastellóDEmpuries,W1
+Espolla,VZ
+Navata,Y5 ###### NOVA 2014
+Portbou,D6
+Roses,D4
+SantPerePescador,U2
+#TorroellaDeFluvia,W2   -> 2014_04_08 Desmantellada i canviada per la seguent
+TorroellaDeFluvia,XZ
+#Ventallo,W3             -> 2015_01_12 Desmantellada
+
+### Alt Penedes (5) ###
+Canaletes,WP 
+FontRubi,DI	
+LaGranada,W4 
+SantMartiSarroca,U3 
+SantSadurniDAnoia,WY
+
+### Alt Urgell (4) ###
+Alinya,Y4 #### NOVA 2014
+LaSeuDUrgell,CD
+Oliana,W5 
+Organya,CJ
+
+### Alta Ribagorça (2) ###
+Boí,Z2
+ElPontDeSuert,CT
+
+### Anoia (4) ###
+ElsHostaletsDePierola,CE
+LaLlacuna,XB
+LaPanadella,XA
+Odena,H1
+
+### Bages (5) ###
+Artes,WW
+CastellnouDeBages,U4
+ElPontDeVilomara,R1
+MontserratSantDimes,WN
+SantSalvadorDeGuardiola,CL
+
+### Baix Camp (3) ###
+Prades,XR
+Riudoms,W6
+VinyolsIElsArcs,U6
+
+### Baix Ebre (5) ###
+Aldover,U7
+ElPerello,DB
+LAldea,U9
+LAmetllaDeMar,UA
+PNDelsPorts,X5
+
+### Baix Emporda (5) ###
+CastellDAro,DO
+LaTalladaDEmporda,UB
+LaBisbalDEmporda,DF
+Monells,UC
+#SerraDeDaro,UD  -> VELLA 2014
+TorroellaDeMontgri,UE
+
+### Baix Llobregat (4) ###
+BeguesPNDelGarraf,UF
+ElPratDeLlobregat,XL
+Vallirana,D3
+Viladecans,UG
+
+### Baix Penedes (4) ###
+Cunit,WZ
+ElMontmell,UH
+ElVendrell,D9
+LaBisbalDelPenedes,WO
+
+### Barcelones (5) ###
+Badalona,WU
+BarcelonaElRaval,X4
+BarcelonaFabra,D5
+BarcelonaZonaUniversitaria,X8
+BarcelonaZoo,X2
+
+### Bergueda (4) ###
+Gisclareny,UI
+GuardiolaDeBergueda,WV
+LaQuar,CR
+SantuariDeQueralt,WM
+
+### Cerdanya (4) ###
+CadiNordPratDAguilo,Z9
+Das,DP
+Malniu,Z3
+TosaDAlp,ZD #### NOVA 2014
+
+### Conca de Barbera (3) ###
+Blancafort,W8
+EsplugaDeFrancoli,CW
+SantaColomaDeQueralt,UJ
+
+### Garraf (2) ###
+SantPereDeRibes,UK
+Canyelles,XU
+
+### Garrigues (2) ###
+Castelldans,UL
+LaGranadella,UM
+
+### Garrotxa (2) ###
+LaVallDEnBas,W9
+Olot,DC
+
+### Girones (4) ###
+CassaDeLaSelva,UN
+FornellsDeLaSelva,UO
+Girona,XJ
+Vilablareix,WF
+
+### Maresme (4) ###
+Cabrils,UP
+Dosrius,UQ
+MalgratDeMar,WT
+# VilassarDeMar,DD  -> Desmantellada 16_1_2015
+
+### Montsia (6) ###
+Alcanar,US
+Amposta,UU
+ElsAlfacs,UW
+IllaDeBuda,DL
+MasDeBarberans,C9
+Ulldecona,UX
+
+### Noguera (8) ###
+Albesa,WB
+Algerri,WG
+Baldomar,X6
+Camarasa,WX
+Oliola,WA
+OsDeBalaguer,UY
+VallfogonaDeBalaguer,V1
+VilanovaDeMeia,CQ
+
+### Osona (7) ###
+Gurb,V3
+Montesquiu,V4
+Muntanyola,CY
+Oris,CC
+Perafita,V5
+Vic,XO
+Viladrau,WS
+
+### Pallars Jussa (4) ###
+LaPoblaDeSegur,CV
+MontsecDAres,WQ
+SantRomaDAbella,CP
+Tremp,XQ
+
+### Pallars Sobira (5) ###
+Bonaigua,Z1
+Certascan,Z5
+Espot,Z7
+Saloria,ZB
+Sort,XH
+
+### Pla d Urgell (4) ###
+CastellnouDeSeana,C6
+ElPoal,V8
+Golmes,WC
+Mollerussa,XI
+
+### Pla de l Estany (1) ###
+Banyoles,DJ
+
+### Priorat (5) ###
+ElMasroig,WJ
+Falset,X1
+Margalef,D1
+TorrojaDelPriorat,WR
+Ulldemolins,XD
+PantaSiurana,MR
+
+### Ribera d Ebre (4) ###
+Asco,VA
+Benissanet,VB
+RibaRojaDEbre,VC
+Vinebre,D7
+
+### Ripolles (4) ###
+Mollo,CG
+Nuria,DG
+SantPauDeSeguries,CI
+Ulldeter,ZC
+
+### Segarra (2) ###
+Cervera,C8
+ElCanos,VD
+
+### Segria (12) 
+Aitona,VE
+Alcarras,XY   ##### s ha canviat el 2014
+Alfarras,WK
+Alguaire,X3
+ElsAlamus,XM
+Gimenells,VH
+#Lleida,VJ    ##### s ha canviat la 1a per la 2a el dia 2013_07_24
+Lleida,XW
+Maials,WI
+Raimat,VK
+Seros,XN
+TorresDeSegre,X7
+VilanovaDeSegria,VM
+
+### Selva (3) ###
+Angles,DN
+SantaColomaFarners,XS
+VilobiDOnyar,VN
+
+### Solsones (4) ###
+PortDelComte,Z8
+Lladurs,VO
+Pinos,VP
+Solsona,XT
+
+### Tarragones (3) ###
+Constanti,VQ
+Tarragona,XE
+Torredembarra,DK
+
+### Terra Alta (3) ###
+Batea,WD
+Gandesa,XP
+HortaDeSantJoan,D8
+
+### Urgell (3) ###
+SantMartiDeRiucorb,WL
+Tarrega,C7
+Tornabous,XX   ##### s ha canviat el 2014
+
+### Val d Aran (3) ###
+LacRedon,VS
+Sasseuva,Z6
+VielhaEMijaran,CU
+
+### Valles Occidental (6) ###
+Castellbisbal,XC
+#CerdanyolaDelValles,VT  ---> VELLA 2014
+SantCugat,XV
+Rellinars,VU
+Sabadell,XF
+SantLlorencSavall,VV
+Vacarisses,D2
+
+### Valles Oriental (5) ###
+CaldesDeMontbui,X9
+ParetsDelValles,XG
+PuigSesolles,XK
+Tagamanent,VX
+VilanovaDelValles,WE
