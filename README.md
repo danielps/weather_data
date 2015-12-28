@@ -4,6 +4,7 @@ This file includes 3 main functions to allow the downloading and the treatment o
 
 A config.cfg file place in the same working directory is also needed. In this file the location of the different files and directories must be included in the following way:
 
+```sh
 {
   "aemet": {
     "path_res": "/home/user_name/.../AEMET/Results/",       # Where the final results will be saved
@@ -18,7 +19,7 @@ A config.cfg file place in the same working directory is also needed. In this fi
     "file_stations": "Estacions.dat"
   }
 }
-
+```
 
 The file with the list of weather stations available from each site should include the next information:
 
