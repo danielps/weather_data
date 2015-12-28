@@ -2,7 +2,7 @@
 
 This file includes 3 main functions to allow the downloading and the treatment of the weather data available from three different sources. The sources are AEMET, METEOCAT, and WUnderGround (not yet).
 
-A config.cfg file place in the same working directory is also needed. In this file the location of the different files and directories must be included in the following way:
+A **config.cfg** file place in the same working directory is also needed. In this file the location of the different files and directories must be included in the following way:
 
 ```sh
 {
@@ -21,13 +21,13 @@ A config.cfg file place in the same working directory is also needed. In this fi
 }
 ```
 
-The file with the list of weather stations available from each site should include the next information:
+The **file with the list of weather stations** available from each site should include the following information:
 
 - station_name,station_id
 
 
 
-The information is saved in the following format (one file per weather station):
+The **information is saved** in the following format (one file per weather station):
 
 * [0]  ID_Estacio,
 * [1]  Time_stamp [YYYYMMDDhhmmss],
